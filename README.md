@@ -1,1 +1,1 @@
-current working directory
+There is no place like home
