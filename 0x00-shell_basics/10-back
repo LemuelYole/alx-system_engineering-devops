@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd/tmp cd ..
+pwd/cd .. pwd/source ./10-back
